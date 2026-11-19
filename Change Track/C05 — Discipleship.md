@@ -1,17 +1,17 @@
->***"And every day, in the Temple and from house to house, they continued to teach and preach this message: 'Jesus is the Messiah.'" - Acts 5:42***
+>***"And every day, in the Temple and from house to house, they continued to teach and preach this message: 'Jesus is the Messiah.'" — [[Verse Bank#^acts-5-42|Acts 5:42]]***
 
 ### Daily Devotional  *"And everyday..."*
 
->"But Jesus told him, 'People do not live by bread alone, but by every word that comes from the mouth of God.'" - Matthew 4:4
+>"But Jesus told him, 'People do not live by bread alone, but by every word that comes from the mouth of God.'" — [[Verse Bank#^matthew-4-4|Matthew 4:4]]
 
 You need to read the Bible every day because this is our spiritual food.
 
 
 ### Church Attendance  *"In the temple..."*
 
->"And let us not neglect our meeting together, as some people do, but encourage one another, especially now that the day of His return is drawing near." - Hebrews 10:25
+>"And let us not neglect our meeting together, as some people do, but encourage one another, especially now that the day of His return is drawing near." — [[Verse Bank#^hebrews-10-25|Hebrews 10:25]]
 
->Don’t you realize that your body is the temple of the Holy Spirit, who lives in you and was given to you by God? You do not belong to yourself - 1 Corinthians 6:19
+>Don’t you realize that your body is the temple of the Holy Spirit, who lives in you and was given to you by God? You do not belong to yourself — [[Verse Bank#^1-corinthians-6-19|1 Corinthians 6:19]]
 
 The temple is a place of worship.
 The church is not a building.
@@ -34,7 +34,7 @@ Doing life—not just church.
 ### Equipping   *they continued to teach...*
 
 God would like to use you to fulfill his purpose for your life.
-Everyone has the potential to become a leader (Genesis 1:26).
+Everyone has the potential to become a leader ([[Verse Bank#^genesis-1-26|Genesis 1:26]]).
 You need to be trained and equipped to become effective at what God wants us to do.
 
 Someone was changed by God in order to meet you.
@@ -50,7 +50,7 @@ Tell everybody that you have already accepted Him as your personal Lord and Savi
 Preaching the gospel is God's great commission that needs to be obeyed.
 
 
->"Go into all the world and preach the Good News to everyone. Anyone who believes and is baptized will be saved. But anyone who refuses to believe will be condemned" - Mark 16:15-16
+>"Go into all the world and preach the Good News to everyone. Anyone who believes and is baptized will be saved. But anyone who refuses to believe will be condemned" — [[Verse Bank#^mark-16-15-16|Mark 16:15–16]]
 
 ## What the Lord is impressing me about you
 You are called to be a leader.

@@ -6,7 +6,7 @@ It is something that you should ***find and receive***.
 Because Christ already paid for all. You just have to receive it. And only those who desire to seek it shall find it.
 
 >*"All praise to God, the Father of our Lord Jesus Christ, who has blessed us with every spiritual blessing in the heavenly realms because we are united with Christ"*
->— Ephesians 1:3
+> — [[Verse Bank#^ephesians-1-3|Ephesians 1:3]]
 
 > If I am in Christ, I am living a blessed life.
 
@@ -25,7 +25,7 @@ Therefore, the king is the most important entity of the kingdom. His will, inten
 
 The Bible is the rule of Christ in the hearts of the believers. If you worship Jesus, His will be done, His intention will be carried out, and His goal is our goal as well.
 
-> “In this manner, therefore, pray: Our Father in heaven, Hallowed be Your name. Your kingdom come. Your will be done On earth as it is in heaven.” — Matthew 6:9–10 (NKJV)
+> “In this manner, therefore, pray: Our Father in heaven, Hallowed be Your name. Your kingdom come. Your will be done On earth as it is in heaven.” — [[Verse Bank#^matthew-6-9-10|Matthew 6:9–10]] (NKJV)
 
 In a democratic government, the will of the people will be done. If we are part of God’s Kingdom, the will of the King who is in heaven will be done on earth. 
 Maybe a lot of Christians are having a hard time submitting to the Lord because they are used to submit to their own desires.
@@ -56,9 +56,9 @@ Maylang gani, that our God who is the King is good, loving, faithful, perfect, G
 
 # The Kingdom is not of this world (invisible).
 
-> “Repent, for the kingdom of heaven is at hand!” — **Matthew 3:2 (NKJV)**
+> “Repent, for the kingdom of heaven is at hand!” — [[Verse Bank#^matthew-3-2|Matthew 3:2]] (NKJV)
 
->'Now when He was asked by the Pharisees when the kingdom of God would come, He answered them and said, “The kingdom of God does not come with observation; nor will they say, ‘See here!’ or ‘See there!’ For indeed, the kingdom of God is within you.”'  — Luke 17:20-21  
+>'Now when He was asked by the Pharisees when the kingdom of God would come, He answered them and said, “The kingdom of God does not come with observation; nor will they say, ‘See here!’ or ‘See there!’ For indeed, the kingdom of God is within you.”'  — [[Verse Bank#^luke-17-20-21|Luke 17:20–21]] (NKJV)
 
 **Repent — metanoia — change of mind.**
 
@@ -81,7 +81,7 @@ We currently might not be operating in God's Kingdom.
 
 If we surrender our desires unto God—if you believe that His desires are better than our desires, we are operating in God's Kingdom.
 
->'But seek first the ***kingdom*** of God and His ***righteousness***, and ***all these things*** shall be added to you. '  — Matthew 6:33 NKJV
+>'But seek first the ***kingdom*** of God and His ***righteousness***, and ***all these things*** shall be added to you. '  — [[Verse Bank#^matthew-6-33|Matthew 6:33]] (NKJV)
 
 Kinsa man ang di mabalaka sa ilang mga gikinahanglan? Kay sa realidad, lisod man jud di mabalaka kung kanang mga butanga gikinahanglan jud nimo.
 
@@ -97,14 +97,14 @@ You will realize your destiny.
 ---
 # You Are Destined to Rule
 
->'Then God said, “Let us make mankind in our image, in our likeness, so that they may rule over the fish in the sea and the birds in the sky, over the livestock and all the wild animals, and over all the creatures that move along the ground.” ' — Genesis 1:26 NIV
+>'Then God said, “Let us make mankind in our image, in our likeness, so that they may rule over the fish in the sea and the birds in the sky, over the livestock and all the wild animals, and over all the creatures that move along the ground.” ' — [[Verse Bank#^genesis-1-26|Genesis 1:26]] (NIV)
 
 The problem is we are afraid to rule.
 But your are not destined by God to be a following pawn all your life.
 
 You are destined to rule. That’s why you need to grow; mature; blossom in your faith. That’s your destiny. You need to dominate.
 
-## Deuteronomy 28:13 (NKJV)
+## [[Verse Bank#^deuteronomy-28-13|Deuteronomy 28:13]] (NKJV)
 
 > “And the Lord will make you the head and not the tail; you shall be above only, and not be beneath, if you heed the commandments of the Lord your God, which I command you today, and are careful to observe them.”
 
@@ -123,7 +123,7 @@ But the problem is, a lot of us, often times, we are afraid to rule. And we're j
 ---
 # You have the power and the authority
 
->I have given you authority to trample on snakes and scorpions and to overcome all the power of the enemy; nothing will harm you. — Luke 10:19
+>I have given you authority to trample on snakes and scorpions and to overcome all the power of the enemy; nothing will harm you. — [[Verse Bank#^luke-10-19|Luke 10:19]]
 
 Every time you say "Amen" to the Word of God; the prophesies alike, it's not just your mouth talking.
 It is your ***faith*** talking.
@@ -161,6 +161,6 @@ Talk about pruning.
 Talk about ASK.
 
 *Live by faith, act by faith, and walk by faith.*
->'“For my thoughts are not your thoughts, neither are your ways my ways,” declares the Lord.'  — Isaiah 55:8
+>'“For my thoughts are not your thoughts, neither are your ways my ways,” declares the Lord.'  — [[Verse Bank#^isaiah-55-8|Isaiah 55:8]]
 
 Wala'y mahimo ang pagkabalaka, pero tungod sa atong pagtuo naay mahimo.

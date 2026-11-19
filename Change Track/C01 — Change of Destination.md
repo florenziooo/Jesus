@@ -7,7 +7,7 @@ When God created Adam and Eve (Genesis 1–2), everything was good. They were ma
 **We were designed to live in relationship with God.**
 
 > "He has made everything beautiful in its time. He has also set eternity in the human heart…"
-> — Ecclesiastes 3:11
+> — [[Verse Bank#^ecclesiastes-3-11|Ecclesiastes 3:11]]
 
 God placed eternity in every human heart. That is why no success, money, relationship, achievement, or pleasure can fully satisfy us. We were created for something greater. We were created for God.
 
@@ -23,7 +23,7 @@ That longing points back to our original design.
 God gave Adam and Eve one command.
 
 > "…but you must not eat from the tree of the knowledge of good and evil, for when you eat from it you will certainly die."
-> — Genesis 2:17
+> — [[Verse Bank#^genesis-2-17|Genesis 2:17]]
 
 > [!question] Ask
 > "Did Adam and Eve physically die that day?"
@@ -51,7 +51,7 @@ Imagine taking a fish out of water. Did the fish suddenly become bad? No. It jus
 In the same way, **humanity wasn't designed to live apart from God.** When we leave His design, things begin to die: relationships, purpose, peace, hope, joy. That is why we experience guilt, shame, fear, anxiety, emptiness, and brokenness.
 
 > "For all have sinned and fall short of the glory of God."
-> — Romans 3:23
+> — [[Verse Bank#^romans-3-23|Romans 3:23]]
 
 No one is exempt. Every one of us has stepped outside God's design.
 
@@ -70,7 +70,7 @@ God is perfectly holy, perfectly just, and perfectly faithful. Everything He say
 No. But something always dies: peace, joy, relationships, trust, purpose. And the greatest consequence is separation from God.
 
 > "For the wages of sin is death, but the gift of God is eternal life in Christ Jesus our Lord."
-> — Romans 6:23
+> — [[Verse Bank#^romans-6-23|Romans 6:23]]
 
 Sin earns death, not only physical death, but **spiritual death: separation from God.**
 
@@ -91,7 +91,7 @@ Many picture boiling lava and physical torture. But think of every good thing yo
 **But God…**
 
 > "For God so loved the world that he gave his one and only Son, that whoever believes in him shall not perish but have eternal life."
-> — John 3:16
+> — [[Verse Bank#^john-3-16|John 3:16]]
 
 Jesus came so that no one would have to face that separation.
 
@@ -102,7 +102,7 @@ Jesus came so that no one would have to face that separation.
 Immediately after humanity sinned, God did not abandon them. He made a promise.
 
 > "And I will put enmity between you and the woman, and between your offspring and hers; he will crush your head, and you will strike his heel."
-> — Genesis 3:15
+> — [[Verse Bank#^genesis-3-15|Genesis 3:15]]
 
 This is often called the *first gospel*. It was as if God was saying:
 
@@ -123,7 +123,7 @@ Why did Jesus have to die instead?
 The answer is found in God's character.
 
 > "Whoever does not love does not know God, because God is love."
-> — 1 John 4:8
+> — [[Verse Bank#^1-john-4-8|1 John 4:8]]
 
 Love cannot be proven by force. It must be revealed.
 
@@ -147,23 +147,23 @@ At the cross, Satan revealed the depth of his hatred.
 At the cross, God revealed the depth of His love.
 
 > "But God demonstrates his own love for us in this: While we were still sinners, Christ died for us."
-> — Romans 5:8
+> — [[Verse Bank#^romans-5-8|Romans 5:8]]
 
 The victory did not come because God out-powered Satan. Everyone already knew God was more powerful. **The victory came because God answered hatred with sacrificial love.**
 
 > "It is finished."
-> — John 19:30
+> — [[Verse Bank#^john-19-30|John 19:30]]
 
 The issue was never whether God was the strongest. The issue was whether God was **worthy of our trust**. The cross answered that forever.
 
 ### Our Share in the Victory
 
 > "They triumphed over him by the blood of the Lamb and by the word of their testimony."
-> — Revelation 12:11
+> — [[Verse Bank#^revelation-12-11|Revelation 12:11]]
 
 We do not overcome by our own strength. We overcome because Christ already won.
 
-One day Satan will be destroyed forever (Revelation 20:10). When that day comes, the whole universe will know that God's judgment is not the act of a cruel ruler. It is the righteous act of a loving King who gave every opportunity for repentance and proved His character beyond all doubt.
+One day Satan will be destroyed forever ([[Verse Bank#^revelation-20-10|Revelation 20:10]]). When that day comes, the whole universe will know that God's judgment is not the act of a cruel ruler. It is the righteous act of a loving King who gave every opportunity for repentance and proved His character beyond all doubt.
 
 > God could have destroyed Satan at the beginning with His power.
 > Instead, He defeated him through the cross with His love.
@@ -177,7 +177,7 @@ One day Satan will be destroyed forever (Revelation 20:10). When that day comes,
 Read **Isaiah 53** together.
 
 > "But he was pierced for our transgressions, he was crushed for our iniquities; the punishment that brought us peace was on him, and by his wounds we are healed. We all, like sheep, have gone astray, each of us has turned to our own way; and the LORD has laid on him the iniquity of us all."
-> — Isaiah 53:5–6
+> — [[Verse Bank#^isaiah-53-5-6|Isaiah 53:5–6]]
 
 Jesus became unrecognizable. Not because of His own sin, but because He carried ours:
 
@@ -205,7 +205,7 @@ The cross is where God's justice and God's love met.
 Many people think, *"If I become good enough, maybe God will accept me."* That is not the gospel.
 
 > "For it is by grace you have been saved, through faith—and this is not from yourselves, it is the gift of God—not by works, so that no one can boast."
-> — Ephesians 2:8–9
+> — [[Verse Bank#^ephesians-2-8-9|Ephesians 2:8–9]]
 
 We cannot earn it. We cannot buy it. We cannot deserve it. **Jesus already paid for it.**
 

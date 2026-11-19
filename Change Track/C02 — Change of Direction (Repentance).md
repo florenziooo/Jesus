@@ -1,5 +1,5 @@
 > "I am **the Way, the Truth, and the Life**. No one comes to the Father except through Me."
-> — John 14:6
+> — [[Verse Bank#^john-14-6|John 14:6]]
 
 ---
 
@@ -20,12 +20,19 @@ And the heart of the Father is embodied through Jesus. So that by following Him.
 - We will know the **TRUTH**.
 - We will gain **access to the Father** and gain **ETERNAL LIFE**.
 
-In the Old Testament, the people there treat God as an angry God.
+In the Old Testament, many people related to God mainly as:
 
 - A master of creation
 - A sovereign ruler
 - A lawful judge
-- Someone we fear to avoid being damned.
+- Someone to be revered and feared
+
+All of that is true, but it was never the whole picture. Even then, God described Himself this way:
+
+> The LORD, the compassionate and gracious God, slow to anger, abounding in love and faithfulness
+> — [[Verse Bank#^exodus-34-6|Exodus 34:6]]
+
+Jesus did not introduce a different God. He made the Father's heart fully known.
 
 ---
 
@@ -35,12 +42,12 @@ As human beings, it is in our nature to pursue everything that is good.
 But we need to ask the Lord for discernment to determine what is **good** and **godly**.
 
 > There is a way that seems right to a man, but its end is the way of death.
-> — Proverbs 14:12
+> — [[Verse Bank#^proverbs-14-12|Proverbs 14:12]]
 
 The problem with lost people is that they don't know that they are lost.
 
 > Enter through the narrow gate. For wide is the gate whose road leads to destruction, and many enter through it. But narrow is the gate whose road leads to life, only a few find it.
-> — Matthew 17:13-14
+> — [[Verse Bank#^matthew-7-13-14|Matthew 7:13–14]]
 
 At this point, we must reflect if we are lost or heading to destruction or are we heading to life.
 
@@ -62,8 +69,8 @@ Greek word
 
 ### Why?
 
-- Your sins may be wiped (Acts 2:42)
-- You can focus on Jesus and God's plans for you (Jeremiah 29:11)
+- Your sins may be wiped ([[Verse Bank#^acts-3-19|Acts 3:19]])
+- You can focus on Jesus and God's plans for you ([[Verse Bank#^jeremiah-29-11|Jeremiah 29:11]])
 - You can be free from any baggage or bondage that the enemy is keeping you.
 
 ### How?
@@ -71,12 +78,12 @@ Greek word
 **RENEWING OF THE MIND**
 
 > Do not conform to the patterns of this world, but be transformed by the renewing of the mind. Then you will be able to test and approve what God's will is—his good, pleasing and perfect will.
-> — Romans 12:2
+> — [[Verse Bank#^romans-12-2|Romans 12:2]]
 
 True repentance will eventually result in a new life.
 
 > Very truly I tell you, unless a kernel of wheat falls to the ground and dies, it remains only a single seed. But if it dies, it produces many seeds
-> — John 12:24
+> — [[Verse Bank#^john-12-24|John 12:24]]
 
 In order to have a new life, something has to die.
 New life is the result of the process of dying to yourself.
