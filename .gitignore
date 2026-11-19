@@ -1,0 +1,16 @@
+# macOS
+.DS_Store
+
+# Obsidian workspace state
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Obsidian cache
+.obsidian/cache/
+
+# Optional: Exclude plugin data if you don't want to sync it
+# .obsidian/plugins/
+
+# Temporary files
+*.tmp
+*.swp
