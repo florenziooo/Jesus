@@ -1,4 +1,5 @@
 [[Matthew 18#^v21|Matthew 18:21-35]]
+
 When you don’t forgive people, we develop a victim mentality, and develop an identity that keeps us safe from unforgiveness.
 
 At the thought of forgiving that person, it almost feels like you’re losing control; feels like you’re losing a part of yourself.
